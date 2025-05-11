@@ -1,10 +1,10 @@
-body{
+body {
     line-height: 1.6;
     margin: 0;
     padding: 50px;
 }
 
-.container{
+.container {
    display: grid;
    grid-template-areas:
    "header header"
